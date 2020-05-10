@@ -63,42 +63,41 @@ axios
           ]
         );
 
-        if (
-          true
-          //startdate.isSameOrBefore("2020-05-10") &&
-          //enddate.isSameOrAfter("2020-05-10")
-        ) {
-          const output = {
-            id: item["avoindata:Lyhyt_maanvuokraus_alue"]["avoindata:id"],
-            nimi: item["avoindata:Lyhyt_maanvuokraus_alue"]["avoindata:nimi"]
-              .replace(/Terassialue: /, "")
-              .replace(/Parklet-ruu[a-z]+ [0-9]+ m2 /, "")
-              .replace("&amp;", "&")
-              .replace(/ksen edustalla/, "s")
-              .replace(/nun edustalla/, "tu")
-              .replace(/din edustalla/, "d")
-              .replace(/bin edustalla/, "b")
-              .replace(/nin edustalla/, "n")
-              .replace(/din edustalla/, "d")
-              .replace(/\:n edustalla/, "")
-              .replace(/n edustalla/, ""),
-            tyyppi:
-              item["avoindata:Lyhyt_maanvuokraus_alue"][
-                "avoindata:hakemuksen_laji"
-              ],
-            osoite: item["avoindata:Lyhyt_maanvuokraus_alue"][
-              "avoindata:osoite"
-            ].replace(/ \(karttaliite\)/, ""),
-            geometria: transformGeometry(
-              item["avoindata:Lyhyt_maanvuokraus_alue"]["avoindata:singlegeom"][
-                "gml:MultiSurface"
-              ]["gml:surfaceMember"]["gml:Polygon"]["gml:exterior"][
-                "gml:LinearRing"
-              ]["gml:posList"]
-            ),
-          };
-          terassit.push(output);
-        }
+        const output = {
+          id: item["avoindata:Lyhyt_maanvuokraus_alue"]["avoindata:id"],
+          nimi: item["avoindata:Lyhyt_maanvuokraus_alue"]["avoindata:nimi"]
+            .replace(/Terassialue: /, "")
+            .replace(/Parklet-ruu[a-z]+ [0-9]+ m2 /, "")
+            .replace("&amp;", "&")
+            .replace(/ksen edustalla/, "s")
+            .replace(/nun edustalla/, "tu")
+            .replace(/din edustalla/, "d")
+            .replace(/bin edustalla/, "b")
+            .replace(/nin edustalla/, "n")
+            .replace(/din edustalla/, "d")
+            .replace(/\:n edustalla/, "")
+            .replace(/n edustalla/, ""),
+          tyyppi:
+            item["avoindata:Lyhyt_maanvuokraus_alue"][
+              "avoindata:hakemuksen_laji"
+            ],
+          osoite: item["avoindata:Lyhyt_maanvuokraus_alue"][
+            "avoindata:osoite"
+          ].replace(/ \(karttaliite\)/, ""),
+          geometria: transformGeometry(
+            item["avoindata:Lyhyt_maanvuokraus_alue"]["avoindata:singlegeom"][
+              "gml:MultiSurface"
+            ]["gml:surfaceMember"]["gml:Polygon"]["gml:exterior"][
+              "gml:LinearRing"
+            ]["gml:posList"]
+          ),
+          voimassa:
+            startdate.isSameOrBefore("2020-05-10") &&
+            enddate.isSameOrAfter("2020-05-10")
+              ? true
+              : false,
+        };
+        terassit.push(output);
       }
     });
 
