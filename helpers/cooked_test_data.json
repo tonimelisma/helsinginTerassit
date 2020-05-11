@@ -1,0 +1,1586 @@
+[
+  {
+    "id": 15,
+    "nimi": "Döner Harju -ravintola,",
+    "tyyppi": "Parklet",
+    "osoite": "Fleminginkatu 23",
+    "geometria": [24.953081000005366, 60.18864050000139],
+    "voimassa": false
+  },
+  {
+    "id": 16,
+    "nimi": "BB Badge & co ravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Ullanlinnankatu 5",
+    "geometria": [24.946446499997933, 60.16336400001002],
+    "voimassa": false
+  },
+  {
+    "id": 17,
+    "nimi": "hotelli St.George",
+    "tyyppi": "Parklet",
+    "osoite": "Yrjönkatu 13",
+    "geometria": [24.940741000075487, 60.16667400001431],
+    "voimassa": false
+  },
+  {
+    "id": 18,
+    "nimi": "BB Alfons’ Pizza -ravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Laivurinkatu 37",
+    "geometria": [24.942383000003755, 60.15929650000125],
+    "voimassa": false
+  },
+  {
+    "id": 19,
+    "nimi": "Riviera -elokuvateatteri",
+    "tyyppi": "Parklet",
+    "osoite": "Harjukatu 2",
+    "geometria": [24.957841499982383, 60.187751000001775],
+    "voimassa": false
+  },
+  {
+    "id": 20,
+    "nimi": "Juuri-ravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Korkeavuorenkatu 27",
+    "geometria": [24.94619350001141, 60.16389950000153],
+    "voimassa": false
+  },
+  {
+    "id": 21,
+    "nimi": "Ravintola Iltakoulu",
+    "tyyppi": "Parklet",
+    "osoite": "Vaasankatu 5",
+    "geometria": [24.96018550001941, 60.188279500045255],
+    "voimassa": false
+  },
+  {
+    "id": 22,
+    "nimi": "Ravintola Caffé &Osteria Ventuno",
+    "tyyppi": "Parklet",
+    "osoite": "Punanotkonkatu 4",
+    "geometria": [24.94662249999046, 60.1628010000436],
+    "voimassa": false
+  },
+  {
+    "id": 23,
+    "nimi": "Levain –ravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Kankurinkatu 6",
+    "geometria": [24.936813000017064, 60.159415000004174],
+    "voimassa": false
+  },
+  {
+    "id": 24,
+    "nimi": "Hercules -ravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Pohjoinen Rautatiekatu 21",
+    "geometria": [24.928188999918735, 60.170003500035115],
+    "voimassa": false
+  },
+  {
+    "id": 25,
+    "nimi": "Bites Burgers Kamppi -ravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Lapinlahdenkatu 3",
+    "geometria": [24.931204500039144, 60.166451000038975],
+    "voimassa": false
+  },
+  {
+    "id": 26,
+    "nimi": "Kanniston leipomo",
+    "tyyppi": "Parklet",
+    "osoite": "Kankurinkatu 6",
+    "geometria": [24.937031000017093, 60.159262000004176],
+    "voimassa": false
+  },
+  {
+    "id": 27,
+    "nimi": "Punavuoren Ahven",
+    "tyyppi": "Parklet",
+    "osoite": "Punavuorenkatu 12",
+    "geometria": [24.937529999923395, 60.16098450002964],
+    "voimassa": true
+  },
+  {
+    "id": 28,
+    "nimi": "Primula Skiffer -ravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Laivurinkatu 10",
+    "geometria": [24.9418450000153, 60.160472000001675],
+    "voimassa": false
+  },
+  {
+    "id": 29,
+    "nimi": "Café Esplanad",
+    "tyyppi": "Parklet",
+    "osoite": "Pohjoisesplanadi 37",
+    "geometria": [24.944379499990703, 60.16773250004121],
+    "voimassa": false
+  },
+  {
+    "id": 30,
+    "nimi": "Ravintola Pastis",
+    "tyyppi": "Parklet",
+    "osoite": "Pieni Roobertinkatu 2",
+    "geometria": [24.946931999998647, 60.164189500009606],
+    "voimassa": false
+  },
+  {
+    "id": 31,
+    "nimi": "Solmu Pub",
+    "tyyppi": "Parklet",
+    "osoite": "Vaasankatu 8",
+    "geometria": [24.957637000000066, 60.18833100000943],
+    "voimassa": false
+  },
+  {
+    "id": 32,
+    "nimi": "Bar Llamas",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Iso Roobertinkatu 14",
+    "geometria": [24.94226949999023, 60.16348200000813],
+    "voimassa": false
+  },
+  {
+    "id": 33,
+    "nimi": "Caffe Bakery Meli",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Helsinginkatu 11",
+    "geometria": [24.956564999987872, 60.18742600001905],
+    "voimassa": false
+  },
+  {
+    "id": 35,
+    "nimi": "Lapland Hotels Bulevardi",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Bulevardi 28",
+    "geometria": [24.935904499595104, 60.16381675014326],
+    "voimassa": false
+  },
+  {
+    "id": 36,
+    "nimi": "Restaurang Svenska Klubben",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Liisanpuistikko",
+    "geometria": [24.96016728566926, 60.174103142940716],
+    "voimassa": false
+  },
+  {
+    "id": 37,
+    "nimi": "Restaurang Svenska Klubben",
+    "tyyppi": "Talviterassi",
+    "osoite": "Liisanpuistikko",
+    "geometria": [24.960157000000162, 60.17413075000762],
+    "voimassa": false
+  },
+  {
+    "id": 38,
+    "nimi": "Bus Gelato",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Laivurinkatu 37",
+    "geometria": [24.942409500010566, 60.15942400000057],
+    "voimassa": false
+  },
+  {
+    "id": 39,
+    "nimi": "Bus Gelato",
+    "tyyppi": "Talviterassi",
+    "osoite": "Laivurinkatu 37",
+    "geometria": [24.942409500010566, 60.15942400000057],
+    "voimassa": false
+  },
+  {
+    "id": 40,
+    "nimi": "Pupu",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Fredrikinkatu 65",
+    "geometria": [24.929545750033263, 60.169783250007455],
+    "voimassa": false
+  },
+  {
+    "id": 41,
+    "nimi": "Pupu",
+    "tyyppi": "Talviterassi",
+    "osoite": "Fredrikinkatu 65",
+    "geometria": [24.929556400028797, 60.16978620000515],
+    "voimassa": false
+  },
+  {
+    "id": 42,
+    "nimi": "Magu",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Sturenkatu 36",
+    "geometria": [24.95868524994721, 60.195497000013376],
+    "voimassa": false
+  },
+  {
+    "id": 43,
+    "nimi": "Restaurant Penny",
+    "tyyppi": "Parklet",
+    "osoite": "Uudenmaankatu 13",
+    "geometria": [24.941180999980627, 60.164650500008186],
+    "voimassa": false
+  },
+  {
+    "id": 44,
+    "nimi": "LUNGI kortteliravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Korkeavuorenkatu 2a",
+    "geometria": [24.946574750001925, 60.159716000001204],
+    "voimassa": false
+  },
+  {
+    "id": 45,
+    "nimi": "The Salty Dog",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Capellan puistotie 2 / Parrulaituri 22",
+    "geometria": [24.98142925002746, 60.18268750003295],
+    "voimassa": false
+  },
+  {
+    "id": 46,
+    "nimi": "The Salty Dog",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Capellan puistotie 2 / Parrulaituri 22",
+    "geometria": [24.98146625004449, 60.182719750046274],
+    "voimassa": false
+  },
+  {
+    "id": 47,
+    "nimi": "The Salty Dog",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Capellan puistotie 2 / Parrulaituri 22",
+    "geometria": [24.981616999965702, 60.1827630000022],
+    "voimassa": false
+  },
+  {
+    "id": 48,
+    "nimi": "Bar Cón",
+    "tyyppi": "Parklet",
+    "osoite": "Fleminginkatu 10",
+    "geometria": [24.95305299999368, 60.185610000042],
+    "voimassa": false
+  },
+  {
+    "id": 49,
+    "nimi": "Bar Cón",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Fleminginkatu 10",
+    "geometria": [24.953051499993926, 60.18563300004202],
+    "voimassa": false
+  },
+  {
+    "id": 50,
+    "nimi": "Be my guest",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Välimerenkatu 24",
+    "geometria": [24.912289999920784, 60.157878000035566],
+    "voimassa": false
+  },
+  {
+    "id": 51,
+    "nimi": "Roots Helsinki",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Eurantie 8-10",
+    "geometria": [24.96071200000454, 60.19546650000132],
+    "voimassa": false
+  },
+  {
+    "id": 52,
+    "nimi": "Roots Helsinki",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Eurantie 8-10",
+    "geometria": [24.96080849994964, 60.19548550001263],
+    "voimassa": false
+  },
+  {
+    "id": 53,
+    "nimi": "Ateljé Finne",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Arkadiankatu 14",
+    "geometria": [24.928628000004814, 60.17111400002538],
+    "voimassa": false
+  },
+  {
+    "id": 54,
+    "nimi": "Ravintola Mr.Don",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Runeberginkatu 28",
+    "geometria": [24.921948250011962, 60.17458250000061],
+    "voimassa": false
+  },
+  {
+    "id": 55,
+    "nimi": "Ravintola Mr.Don",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Runeberginkatu 28",
+    "geometria": [24.921948250011962, 60.17458250000061],
+    "voimassa": false
+  },
+  {
+    "id": 56,
+    "nimi": "Oluthuone Haavi",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Englantilaisaukio 4 (Hermannin rantatie 5)",
+    "geometria": [24.979785750034804, 60.18633000003743],
+    "voimassa": false
+  },
+  {
+    "id": 57,
+    "nimi": "Green Hippo Café",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Punavuorenkatu 2 (Fredrikintori)",
+    "geometria": [24.940148499869675, 60.16172175006502],
+    "voimassa": false
+  },
+  {
+    "id": 59,
+    "nimi": "Ravintola Kulmabaari",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Soidintie 8",
+    "geometria": [25.017824500003677, 60.25167000000475],
+    "voimassa": false
+  },
+  {
+    "id": 60,
+    "nimi": "Ravintola Gate A21",
+    "tyyppi": "Parklet",
+    "osoite": "Annankatu 21",
+    "geometria": [24.937205500043028, 60.16672000000863],
+    "voimassa": false
+  },
+  {
+    "id": 62,
+    "nimi": "Johan & Nyström",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Kanavaranta 7",
+    "geometria": [24.960222999986605, 60.16907750006623],
+    "voimassa": false
+  },
+  {
+    "id": 63,
+    "nimi": "Anton & Anton –myymälä",
+    "tyyppi": "Parklet",
+    "osoite": "Vuorimiehenkatu 10",
+    "geometria": [24.94630424999626, 60.15930300001218],
+    "voimassa": false
+  },
+  {
+    "id": 64,
+    "nimi": "Milli Miglia -ravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Kalevankatu 36",
+    "geometria": [24.93268800007645, 60.164695500014304],
+    "voimassa": false
+  },
+  {
+    "id": 65,
+    "nimi": "Kustannusosakeyhtiö Otava",
+    "tyyppi": "Parklet",
+    "osoite": "Uudenmaankatu 10",
+    "geometria": [24.94121249991547, 60.16458650003136],
+    "voimassa": false
+  },
+  {
+    "id": 66,
+    "nimi": "Pub Stindepinde -ravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Vaasankatu 18",
+    "geometria": [24.954309999996802, 60.188317000042396],
+    "voimassa": false
+  },
+  {
+    "id": 67,
+    "nimi": "Hotel St.George",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Yrjönkatu 13",
+    "geometria": [24.940639500945533, 60.16679800016442],
+    "voimassa": false
+  },
+  {
+    "id": 68,
+    "nimi": "Hotel St.George",
+    "tyyppi": "Talviterassi",
+    "osoite": "Yrjönkatu 13",
+    "geometria": [24.940639500945533, 60.16679800016442],
+    "voimassa": false
+  },
+  {
+    "id": 70,
+    "nimi": "Vessel Bistro&Burger",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Länsisatamankatu 36",
+    "geometria": [24.915531750004323, 60.155045500012086],
+    "voimassa": false
+  },
+  {
+    "id": 71,
+    "nimi": "Chipa Kiosk Hakaniemi",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Viherniemenkatu 7",
+    "geometria": [24.953189500000253, 60.179255000000204],
+    "voimassa": false
+  },
+  {
+    "id": 72,
+    "nimi": "Pizzeria via Tribunali",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Sofiankatu 4-6",
+    "geometria": [24.95211150000279, 60.16845500000241],
+    "voimassa": false
+  },
+  {
+    "id": 73,
+    "nimi": "Bar Mendocino",
+    "tyyppi": "Parklet",
+    "osoite": "Eerikinkatu 28",
+    "geometria": [24.931713749971017, 60.16590850001092],
+    "voimassa": false
+  },
+  {
+    "id": 75,
+    "nimi": "Young Hearts",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Arkadiankatu 21",
+    "geometria": [24.92618850000042, 60.17133500000296],
+    "voimassa": false
+  },
+  {
+    "id": 76,
+    "nimi": "Mikkeller Helsinki",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Kalevankatu 17",
+    "geometria": [24.935966499976306, 60.16669800000901],
+    "voimassa": false
+  },
+  {
+    "id": 77,
+    "nimi": "Naughyty BRGR Lönkka",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Lönnrotinkatu 13",
+    "geometria": [24.936522999776404, 60.16575250008063],
+    "voimassa": false
+  },
+  {
+    "id": 78,
+    "nimi": "HUG Concept Oy",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Porvoonkatu 14",
+    "geometria": [24.945113500003046, 60.19069250000103],
+    "voimassa": false
+  },
+  {
+    "id": 91,
+    "nimi": "Rustica Cafe",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Korkeavuorenkatu 27",
+    "geometria": [24.946259500003148, 60.16376700000029],
+    "voimassa": false
+  },
+  {
+    "id": 92,
+    "nimi": "Rustica Cafe",
+    "tyyppi": "Talviterassi",
+    "osoite": "Korkeavuorenkatu 27",
+    "geometria": [24.946258500002255, 60.16376750000029],
+    "voimassa": false
+  },
+  {
+    "id": 93,
+    "nimi": "Relove",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Iso Roobertinkatu 32",
+    "geometria": [24.939789999965292, 60.16257550001498],
+    "voimassa": false
+  },
+  {
+    "id": 94,
+    "nimi": "Pizza Express",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Laivalahdenportti 6",
+    "geometria": [25.03438549996725, 60.19119400000444],
+    "voimassa": false
+  },
+  {
+    "id": 95,
+    "nimi": "Olutravintola Pikkulintu",
+    "tyyppi": "Parklet",
+    "osoite": "Lönnrotinkatu 11",
+    "geometria": [24.936853749961234, 60.165829000014625],
+    "voimassa": false
+  },
+  {
+    "id": 96,
+    "nimi": "Bar Flagon",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Vilhonvuorenkatu 5",
+    "geometria": [24.96440650003209, 60.18748350001256],
+    "voimassa": false
+  },
+  {
+    "id": 97,
+    "nimi": "Anton & Anton Kallio",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Viides linja 10",
+    "geometria": [24.952784500008306, 60.1833440000027],
+    "voimassa": false
+  },
+  {
+    "id": 98,
+    "nimi": "Anton & Anton Kallio",
+    "tyyppi": "Talviterassi",
+    "osoite": "Viides linja 10",
+    "geometria": [24.952784500008306, 60.1833440000027],
+    "voimassa": false
+  },
+  {
+    "id": 99,
+    "nimi": "Bar Bronco –ravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Albertinkatu 36",
+    "geometria": [24.932582750038023, 60.16476925000773],
+    "voimassa": false
+  },
+  {
+    "id": 100,
+    "nimi": "Ravintola Mayur",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Aurinkoranta 8/Aurinkolahdenaukio",
+    "geometria": [25.1498000000352, 60.201325500004145],
+    "voimassa": false
+  },
+  {
+    "id": 101,
+    "nimi": "Ravintola Mayur",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Aurinkoranta 8/Aurinkolahdenaukio",
+    "geometria": [25.149986249993184, 60.20133575001504],
+    "voimassa": false
+  },
+  {
+    "id": 102,
+    "nimi": "Kaupparavintola ÖL UT",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Fleminginkatu 12b",
+    "geometria": [24.95306500000031, 60.186255000000216],
+    "voimassa": false
+  },
+  {
+    "id": 103,
+    "nimi": "Kaupparavintola ÖL UT",
+    "tyyppi": "Talviterassi",
+    "osoite": "Fleminginkatu 12b",
+    "geometria": [24.95306500000031, 60.186255000000216],
+    "voimassa": false
+  },
+  {
+    "id": 104,
+    "nimi": "Fazer Café Töölö",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Topeliuksenkatu 17",
+    "geometria": [24.91852899995433, 60.18361800002335],
+    "voimassa": false
+  },
+  {
+    "id": 105,
+    "nimi": "Pizzeria sopranos",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Pietarinkatu 16",
+    "geometria": [24.946105499998264, 60.15702100000232],
+    "voimassa": false
+  },
+  {
+    "id": 106,
+    "nimi": "Nanglo Ravintola",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Kalevankatu 17",
+    "geometria": [24.93617099999595, 60.16677050000159],
+    "voimassa": false
+  },
+  {
+    "id": 113,
+    "nimi": "Ruuhka",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Hämeentie 30",
+    "geometria": [24.958646999986854, 60.18367050000386],
+    "voimassa": false
+  },
+  {
+    "id": 114,
+    "nimi": "Niska",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Kanavaranta 3-7",
+    "geometria": [24.959650999998384, 60.16905800001645],
+    "voimassa": false
+  },
+  {
+    "id": 116,
+    "nimi": "Gastro Café Kallio",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Fleminginkatu 7",
+    "geometria": [24.953183250004177, 60.18482325000129],
+    "voimassa": false
+  },
+  {
+    "id": 117,
+    "nimi": "Hong Kong Kuplavohveli",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Simonkatu 3",
+    "geometria": [24.93599110001102, 60.16960950002553],
+    "voimassa": false
+  },
+  {
+    "id": 118,
+    "nimi": "Ravintola Subha Kamana",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Dagmarinkatu 5",
+    "geometria": [24.929826499986458, 60.17360000000385],
+    "voimassa": false
+  },
+  {
+    "id": 119,
+    "nimi": "Ravintola Subha Kamana",
+    "tyyppi": "Talviterassi",
+    "osoite": "Dagmarinkatu 5",
+    "geometria": [24.929826499986458, 60.17360000000385],
+    "voimassa": false
+  },
+  {
+    "id": 120,
+    "nimi": "Piglets",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Sandelsinkatu 2",
+    "geometria": [24.92426850000685, 60.17868650001207],
+    "voimassa": false
+  },
+  {
+    "id": 121,
+    "nimi": "Kanniston leipomo",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Kaarlenkatu 13",
+    "geometria": [24.95158949999995, 60.18645950000112],
+    "voimassa": false
+  },
+  {
+    "id": 122,
+    "nimi": "Cafe Amanda",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Eteläesplanadi 8",
+    "geometria": [24.949067999998693, 60.16713450000798],
+    "voimassa": false
+  },
+  {
+    "id": 123,
+    "nimi": "Cafe Amanda",
+    "tyyppi": "Talviterassi",
+    "osoite": "Eteläesplanadi 8",
+    "geometria": [24.949067999998693, 60.16713450000798],
+    "voimassa": false
+  },
+  {
+    "id": 124,
+    "nimi": "Ravintola Suski",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Ylä-Malmin tori",
+    "geometria": [25.00850900000398, 60.252482000020585],
+    "voimassa": false
+  },
+  {
+    "id": 125,
+    "nimi": "Robert's Coffee Tullinpuomi",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Mannerheimintie 118 / Topeliuksenkatu 36",
+    "geometria": [24.90974799993234, 60.19210050001419],
+    "voimassa": false
+  },
+  {
+    "id": 126,
+    "nimi": "Robert's Coffee Tullinpuomi",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Mannerheimintie 118 / Topeliuksenkatu 36",
+    "geometria": [24.90975650001224, 60.19216700000457],
+    "voimassa": false
+  },
+  {
+    "id": 127,
+    "nimi": "Karaoke Lounge 00100 –ravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Pohjoinen Rautatiekatu 21",
+    "geometria": [24.928376999927796, 60.17006100003024],
+    "voimassa": false
+  },
+  {
+    "id": 128,
+    "nimi": "Suburritos",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Linnankatu 9",
+    "geometria": [24.96952600006616, 60.16584950002488],
+    "voimassa": false
+  },
+  {
+    "id": 129,
+    "nimi": "Suburritos",
+    "tyyppi": "Talviterassi",
+    "osoite": "Linnankatu 9",
+    "geometria": [24.96952600006616, 60.16584950002488],
+    "voimassa": false
+  },
+  {
+    "id": 130,
+    "nimi": "Ravintola Pjazza",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Yrjönkatu 18",
+    "geometria": [24.94191400009447, 60.16567100001624],
+    "voimassa": false
+  },
+  {
+    "id": 131,
+    "nimi": "Ravintola Pjazza",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Yrjönkatu 18",
+    "geometria": [24.94207650005205, 60.16555050000915],
+    "voimassa": false
+  },
+  {
+    "id": 132,
+    "nimi": "Fafa's Mikonkatu",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Mikonkatu 8",
+    "geometria": [24.945276750004055, 60.169398500004235],
+    "voimassa": false
+  },
+  {
+    "id": 133,
+    "nimi": "Cafe Succes -kahvila",
+    "tyyppi": "Parklet",
+    "osoite": "Korkeavuorenkatu 2",
+    "geometria": [24.94654975000254, 60.15991125000123],
+    "voimassa": false
+  },
+  {
+    "id": 134,
+    "nimi": "Gateau Ullanlinna",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Korkeavuorenkatu 6",
+    "geometria": [24.946381750000135, 60.160808000000216],
+    "voimassa": false
+  },
+  {
+    "id": 135,
+    "nimi": "Barley & Bait",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Välimerenkatu 20",
+    "geometria": [24.913531999827477, 60.15822950007835],
+    "voimassa": false
+  },
+  {
+    "id": 137,
+    "nimi": "Ravintola Kolme Kruunua",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Liisankatu 5",
+    "geometria": [24.958939999974607, 60.17431900013191],
+    "voimassa": false
+  },
+  {
+    "id": 139,
+    "nimi": "Crazy Wine Restobar Oy",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Kanavaranta 3-7 (karttalite)",
+    "geometria": [24.95981299999328, 60.16906625003127],
+    "voimassa": false
+  },
+  {
+    "id": 140,
+    "nimi": "Honolulu Bar",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Eerikinkatu 24",
+    "geometria": [24.932304499814208, 60.16608750006357],
+    "voimassa": false
+  },
+  {
+    "id": 141,
+    "nimi": "Honolulu Bar",
+    "tyyppi": "Talviterassi",
+    "osoite": "Eerikinkatu 24",
+    "geometria": [24.932304499814208, 60.16608750006357],
+    "voimassa": false
+  },
+  {
+    "id": 142,
+    "nimi": "Minibar Helsinki",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Eerikinkatu 17",
+    "geometria": [24.93286199999629, 60.16643500000174],
+    "voimassa": false
+  },
+  {
+    "id": 143,
+    "nimi": "Harbour tap&taste",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Capellanaukio 1",
+    "geometria": [24.983090500069153, 60.18388275004603],
+    "voimassa": false
+  },
+  {
+    "id": 144,
+    "nimi": "Harbour tap&taste",
+    "tyyppi": "Talviterassi",
+    "osoite": "Capellanaukio 1",
+    "geometria": [24.983090500069153, 60.18388275004603],
+    "voimassa": false
+  },
+  {
+    "id": 146,
+    "nimi": "Apollo Pizzeria",
+    "tyyppi": "Parklet",
+    "osoite": "Vaasankatu 8",
+    "geometria": [24.95774099999996, 60.18833100001061],
+    "voimassa": false
+  },
+  {
+    "id": 147,
+    "nimi": "Kiska (Ravintola Teatteri)",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Erottaja",
+    "geometria": [24.94397666672318, 60.16702316678462],
+    "voimassa": false
+  },
+  {
+    "id": 148,
+    "nimi": "Gateau",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Pohjoisesplanadi 35",
+    "geometria": [24.94507199999985, 60.16780550000337],
+    "voimassa": false
+  },
+  {
+    "id": 153,
+    "nimi": "Ravintola Cevichon",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Välimerenkatu 24",
+    "geometria": [24.911825166666638, 60.15766033333745],
+    "voimassa": false
+  },
+  {
+    "id": 154,
+    "nimi": "Ravintola Cevichon",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Välimerenkatu 24",
+    "geometria": [24.911860500044984, 60.15755250000439],
+    "voimassa": false
+  },
+  {
+    "id": 155,
+    "nimi": "KOKORO Sushi",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Elimäenkatu 9",
+    "geometria": [24.95089575002195, 60.19386100000666],
+    "voimassa": false
+  },
+  {
+    "id": 156,
+    "nimi": "KOKORO Sushi",
+    "tyyppi": "Talviterassi",
+    "osoite": "Elimäenkatu 9",
+    "geometria": [24.95089575002195, 60.19386100000666],
+    "voimassa": false
+  },
+  {
+    "id": 157,
+    "nimi": "Ravintola Latva",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Pohjoinen Makasiinikatu 9",
+    "geometria": [24.948615749980764, 60.165683750084604],
+    "voimassa": false
+  },
+  {
+    "id": 158,
+    "nimi": "Ravintola Latva",
+    "tyyppi": "Talviterassi",
+    "osoite": "Pohjoinen Makasiinikatu 9",
+    "geometria": [24.948615749980764, 60.165683750084604],
+    "voimassa": false
+  },
+  {
+    "id": 159,
+    "nimi": "Hotel F6",
+    "tyyppi": "Parklet",
+    "osoite": "Fabianinkatu 6",
+    "geometria": [24.949542500010075, 60.166375500001465],
+    "voimassa": false
+  },
+  {
+    "id": 160,
+    "nimi": "Ravintola Pikku Vallila",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Vallilantie 15",
+    "geometria": [24.95987945274827, 60.192236003301666],
+    "voimassa": false
+  },
+  {
+    "id": 161,
+    "nimi": "Ravintola Pikku Vallila",
+    "tyyppi": "Talviterassi",
+    "osoite": "Vallilantie 15",
+    "geometria": [24.95987945274827, 60.192236003301666],
+    "voimassa": false
+  },
+  {
+    "id": 162,
+    "nimi": "Eerikin Pippuri",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Eerikinkatu 15-17",
+    "geometria": [24.932957499974936, 60.16646800000924],
+    "voimassa": false
+  },
+  {
+    "id": 163,
+    "nimi": "Ravintola Romano",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Läntinen Brahenkatu 4",
+    "geometria": [24.94814950000297, 60.187645500004805],
+    "voimassa": false
+  },
+  {
+    "id": 164,
+    "nimi": "On The Rocks",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Mikonkatu 15",
+    "geometria": [24.945351000002233, 60.17110500002323],
+    "voimassa": false
+  },
+  {
+    "id": 166,
+    "nimi": "Encanto",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Maneesikatu 3",
+    "geometria": [24.958395000002014, 60.173452500000266],
+    "voimassa": false
+  },
+  {
+    "id": 167,
+    "nimi": "Encanto",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Maneesikatu 3",
+    "geometria": [24.958522749994977, 60.17341450002615],
+    "voimassa": false
+  },
+  {
+    "id": 169,
+    "nimi": "Ravintola Annan pippuri",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Annankatu 31-33",
+    "geometria": [24.935455500015564, 60.16803425000288],
+    "voimassa": false
+  },
+  {
+    "id": 171,
+    "nimi": "El Rey Vuorimiehenkatu",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Vuorimiehenkatu 18",
+    "geometria": [24.943012999993076, 60.15913650002208],
+    "voimassa": false
+  },
+  {
+    "id": 172,
+    "nimi": " Ravintola Madame Kurvi",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Hämeentie 31",
+    "geometria": [24.96310825001451, 60.18754937500465],
+    "voimassa": false
+  },
+  {
+    "id": 173,
+    "nimi": "Hercules",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Pohjoinen Rautatiekatu 21",
+    "geometria": [24.928168499920087, 60.170020000035315],
+    "voimassa": false
+  },
+  {
+    "id": 176,
+    "nimi": "The Cock",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Fabianinkatu 17",
+    "geometria": [24.94982650002158, 60.165504000000986],
+    "voimassa": false
+  },
+  {
+    "id": 177,
+    "nimi": "The Cock -ravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Fabianinkatu 17",
+    "geometria": [24.94976700000727, 60.16547200000146],
+    "voimassa": false
+  },
+  {
+    "id": 178,
+    "nimi": "Brewster Bar Punavuori",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Iso Roobertinkatu 20-22",
+    "geometria": [24.941342499931583, 60.163161000028516],
+    "voimassa": true
+  },
+  {
+    "id": 179,
+    "nimi": "Brewster Bar Punavuori",
+    "tyyppi": "Talviterassi",
+    "osoite": "Iso Roobertinkatu 20-22",
+    "geometria": [24.941367249933865, 60.16315200002321],
+    "voimassa": false
+  },
+  {
+    "id": 180,
+    "nimi": "Chinaman",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Päivöläntie 19",
+    "geometria": [25.02675700001102, 60.263537000001534],
+    "voimassa": false
+  },
+  {
+    "id": 181,
+    "nimi": "Chinaman",
+    "tyyppi": "Talviterassi",
+    "osoite": "Päivöläntie 19",
+    "geometria": [25.02675700001102, 60.263537000001534],
+    "voimassa": false
+  },
+  {
+    "id": 182,
+    "nimi": "Ravintola Lepakkomies",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Helsinginkatu 1",
+    "geometria": [24.959554249984826, 60.18768125002651],
+    "voimassa": false
+  },
+  {
+    "id": 183,
+    "nimi": "Ravintola Lepakkomies",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Helsinginkatu 1",
+    "geometria": [24.959554249984826, 60.18768125002651],
+    "voimassa": false
+  },
+  {
+    "id": 184,
+    "nimi": "Ravintola Lepakkomies",
+    "tyyppi": "Talviterassi",
+    "osoite": "Helsinginkatu 1",
+    "geometria": [24.959549999985622, 60.18768600002353],
+    "voimassa": false
+  },
+  {
+    "id": 185,
+    "nimi": "Ravintola Lepakkomies",
+    "tyyppi": "Talviterassi",
+    "osoite": "Helsinginkatu 1",
+    "geometria": [24.959549999985622, 60.18768600002353],
+    "voimassa": false
+  },
+  {
+    "id": 186,
+    "nimi": "Kork bar",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Kanavaranta 3-7",
+    "geometria": [24.95995999999839, 60.16907150001043],
+    "voimassa": false
+  },
+  {
+    "id": 187,
+    "nimi": "Kork bar",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Kanavaranta 3-7",
+    "geometria": [24.95995999999839, 60.16907150001043],
+    "voimassa": false
+  },
+  {
+    "id": 188,
+    "nimi": "Oluthuone Haavi",
+    "tyyppi": "Talviterassi",
+    "osoite": "Englantilaisaukio 4 (Hermannin rantatie 5)",
+    "geometria": [24.979785750034804, 60.18633000003743],
+    "voimassa": false
+  },
+  {
+    "id": 190,
+    "nimi": "Cafe Succés",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Korkeavuorenkatu 2b",
+    "geometria": [24.94649300000417, 60.15990075000071],
+    "voimassa": false
+  },
+  {
+    "id": 191,
+    "nimi": "Cafe Succés",
+    "tyyppi": "Talviterassi",
+    "osoite": "Korkeavuorenkatu 2b",
+    "geometria": [24.946490000004125, 60.15990000000033],
+    "voimassa": false
+  },
+  {
+    "id": 193,
+    "nimi": "Kallion seurahuone",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Fleminginkatu 6",
+    "geometria": [24.95283900001051, 60.18507050000146],
+    "voimassa": true
+  },
+  {
+    "id": 194,
+    "nimi": "Kallion seurahuone",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Fleminginkatu 6",
+    "geometria": [24.95283900001051, 60.18507050000146],
+    "voimassa": true
+  },
+  {
+    "id": 195,
+    "nimi": "Kallion seurahuone",
+    "tyyppi": "Talviterassi",
+    "osoite": "Fleminginkatu 6",
+    "geometria": [24.952828000007592, 60.185069000000496],
+    "voimassa": false
+  },
+  {
+    "id": 196,
+    "nimi": "Kallion seurahuone",
+    "tyyppi": "Talviterassi",
+    "osoite": "Fleminginkatu 6",
+    "geometria": [24.952828000007592, 60.185069000000496],
+    "voimassa": false
+  },
+  {
+    "id": 197,
+    "nimi": "Kaski Bistro & Baari",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Latokartanonkaari 23",
+    "geometria": [25.032883000019577, 60.23365150000241],
+    "voimassa": true
+  },
+  {
+    "id": 198,
+    "nimi": "Kaski Bistro & Baari",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Latokartanonkaari 23",
+    "geometria": [25.032883000019577, 60.23365150000241],
+    "voimassa": true
+  },
+  {
+    "id": 202,
+    "nimi": "Ravintola Pastor",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Erottajankatu 4",
+    "geometria": [24.943448500005665, 60.1659820000018],
+    "voimassa": true
+  },
+  {
+    "id": 208,
+    "nimi": "Ravintola Gandhi",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Toivonkatu 1-3",
+    "geometria": [24.924338999982243, 60.18425925000762],
+    "voimassa": true
+  },
+  {
+    "id": 210,
+    "nimi": "Patisserie Teemu&Markus",
+    "tyyppi": "Talviterassi",
+    "osoite": "Siltasaarenkatu 12",
+    "geometria": [24.949666750005804, 60.17872350000038],
+    "voimassa": false
+  },
+  {
+    "id": 211,
+    "nimi": "Patisserie Teemu Aura",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Siltasaarenkatu 12",
+    "geometria": [24.949679000006583, 60.17872450000159],
+    "voimassa": true
+  },
+  {
+    "id": 212,
+    "nimi": "Nom Vietnamese Kitchen",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Iso Roobertinkatu 20-22",
+    "geometria": [24.941181499998756, 60.16310450000542],
+    "voimassa": true
+  },
+  {
+    "id": 258,
+    "nimi": "Grillikioski",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Kauppatori",
+    "geometria": [24.9543259999976, 60.167445500029956],
+    "voimassa": true
+  },
+  {
+    "id": 259,
+    "nimi": "Grillikioski",
+    "tyyppi": "Talviterassi",
+    "osoite": "Kauppatori",
+    "geometria": [24.9543259999976, 60.167445500029956],
+    "voimassa": false
+  },
+  {
+    "id": 260,
+    "nimi": "Public Corner Mikonkatu",
+    "tyyppi": "Talviterassi",
+    "osoite": "Mikonkatu 15",
+    "geometria": [24.945359500001395, 60.17141400000293],
+    "voimassa": false
+  },
+  {
+    "id": 261,
+    "nimi": "Public Corner Mikonkatu",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Mikonkatu 15",
+    "geometria": [24.9453140000013, 60.17140175002315],
+    "voimassa": true
+  },
+  {
+    "id": 270,
+    "nimi": "Chin Asia Kitchen",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Iso Roobertinkatu 17-19",
+    "geometria": [24.940624999988913, 60.16302750000602],
+    "voimassa": true
+  },
+  {
+    "id": 271,
+    "nimi": "Chin Asia Kitchen",
+    "tyyppi": "Talviterassi",
+    "osoite": "Iso Roobertinkatu 17-19",
+    "geometria": [24.940616499984582, 60.163034000005645],
+    "voimassa": false
+  },
+  {
+    "id": 272,
+    "nimi": "Ravintola Espa",
+    "tyyppi": "Talviterassi",
+    "osoite": "Pohjoisesplanadi 17",
+    "geometria": [24.951458499974763, 60.1679725001284],
+    "voimassa": false
+  },
+  {
+    "id": 273,
+    "nimi": "Ravintola Espa",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Pohjoisesplanadi 17",
+    "geometria": [24.95145949997499, 60.167966000129816],
+    "voimassa": true
+  },
+  {
+    "id": 274,
+    "nimi": "Konditoria Kahvila Briossi",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Kalevankatu 9",
+    "geometria": [24.93805449989356, 60.167418000038275],
+    "voimassa": true
+  },
+  {
+    "id": 281,
+    "nimi": "Sokerileipuri Alenius",
+    "tyyppi": "Talviterassi",
+    "osoite": "Merikatu 1",
+    "geometria": [24.949707499972025, 60.15606250002959],
+    "voimassa": false
+  },
+  {
+    "id": 282,
+    "nimi": "Sokerileipuri Alenius",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Merikatu 1",
+    "geometria": [24.949708999972362, 60.15605950002948],
+    "voimassa": true
+  },
+  {
+    "id": 283,
+    "nimi": "Bricco Kaleva",
+    "tyyppi": "Talviterassi",
+    "osoite": "Kalevankatu 4",
+    "geometria": [24.93956499998807, 60.16779300000444],
+    "voimassa": false
+  },
+  {
+    "id": 284,
+    "nimi": "Bricco Kaleva",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Kalevankatu 4",
+    "geometria": [24.93955199999318, 60.16780150000518],
+    "voimassa": true
+  },
+  {
+    "id": 285,
+    "nimi": "AROY-D",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Helsinginkatu 4b",
+    "geometria": [24.95906351140864, 60.1873660107644],
+    "voimassa": true
+  },
+  {
+    "id": 287,
+    "nimi": "Villd",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Helsinginkatu 21 (karttalitte)",
+    "geometria": [24.952382499974107, 60.18709200007656],
+    "voimassa": true
+  },
+  {
+    "id": 288,
+    "nimi": "Ravintola Same Same",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Tehtaankatu 25 ja Perämiehenkatu 3",
+    "geometria": [24.93533312515076, 60.1579238750223],
+    "voimassa": true
+  },
+  {
+    "id": 289,
+    "nimi": "Ravintola Same Same",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Tehtaankatu 25 ja Perämiehenkatu 3",
+    "geometria": [24.93570049996168, 60.1578850000513],
+    "voimassa": true
+  },
+  {
+    "id": 291,
+    "nimi": "Gateau",
+    "tyyppi": "Talviterassi",
+    "osoite": "Pohjoisesplanadi 35",
+    "geometria": [24.94507999999968, 60.167811000003276],
+    "voimassa": false
+  },
+  {
+    "id": 292,
+    "nimi": "Anton & Anton –myymälä",
+    "tyyppi": "Parklet",
+    "osoite": "Mariankatu 18",
+    "geometria": [24.956407000002415, 60.17223850000128],
+    "voimassa": true
+  },
+  {
+    "id": 293,
+    "nimi": "Ravintola Pontus",
+    "tyyppi": "Parklet",
+    "osoite": "Kapteeninkatu 26",
+    "geometria": [24.946223499946036, 60.15878600000562],
+    "voimassa": true
+  },
+  {
+    "id": 296,
+    "nimi": "El Rey Annankatu",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Annankatu 20",
+    "geometria": [24.93731750002542, 60.16648050000468],
+    "voimassa": true
+  },
+  {
+    "id": 299,
+    "nimi": "Viinibaari Apotek",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Lapinlahdenkatu 1a / Eerikinkatu 19",
+    "geometria": [24.93253414278425, 60.16632957146847],
+    "voimassa": true
+  },
+  {
+    "id": 300,
+    "nimi": "Viinibaari Apotek",
+    "tyyppi": "Talviterassi",
+    "osoite": "Lapinlahdenkatu 1a / Eerikinkatu 19",
+    "geometria": [24.93253414278425, 60.16632957146847],
+    "voimassa": false
+  },
+  {
+    "id": 301,
+    "nimi": "Yes Yes Yes",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Iso Roobertinkatu 1 ja Yrjönkatu 6",
+    "geometria": [24.943834500298323, 60.164293000052325],
+    "voimassa": true
+  },
+  {
+    "id": 302,
+    "nimi": "Yes Yes Yes",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Iso Roobertinkatu 1 ja Yrjönkatu 6",
+    "geometria": [24.943887499947827, 60.16416050002389],
+    "voimassa": true
+  },
+  {
+    "id": 303,
+    "nimi": "Yes Yes Yes",
+    "tyyppi": "Talviterassi",
+    "osoite": "Iso Roobertinkatu 1 ja Yrjönkatu 6",
+    "geometria": [24.943834500298323, 60.164293000052325],
+    "voimassa": false
+  },
+  {
+    "id": 304,
+    "nimi": "Yes Yes Yes",
+    "tyyppi": "Talviterassi",
+    "osoite": "Iso Roobertinkatu 1 ja Yrjönkatu 6",
+    "geometria": [24.943887499947827, 60.16416050002389],
+    "voimassa": false
+  },
+  {
+    "id": 305,
+    "nimi": "Apotek–ravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Eerikinkatu 19",
+    "geometria": [24.932676499982037, 60.1663335000074],
+    "voimassa": true
+  },
+  {
+    "id": 308,
+    "nimi": "Apotek-ravintola",
+    "tyyppi": "Parklet",
+    "osoite": "Lapinlahdenkatu 1a",
+    "geometria": [24.93237000000895, 60.16629650000973],
+    "voimassa": true
+  },
+  {
+    "id": 310,
+    "nimi": "Ravintola Daddygreens",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Iso Roobertinkatu 26",
+    "geometria": [24.940548499878567, 60.16287350004586],
+    "voimassa": true
+  },
+  {
+    "id": 314,
+    "nimi": "Ravintola Nokka",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Kanavaranta 7",
+    "geometria": [24.960882249978752, 60.16908900011784],
+    "voimassa": true
+  },
+  {
+    "id": 315,
+    "nimi": "Ravintola Nokka",
+    "tyyppi": "Talviterassi",
+    "osoite": "Kanavaranta 7",
+    "geometria": [24.96088549997579, 60.16908300011817],
+    "voimassa": false
+  },
+  {
+    "id": 316,
+    "nimi": "Bar Backas",
+    "tyyppi": "Parklet",
+    "osoite": "Mäkelänkatu 15",
+    "geometria": [24.961099250066418, 60.192587500009196],
+    "voimassa": true
+  },
+  {
+    "id": 317,
+    "nimi": "Terassialue Bar Backas",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Mäkelänkatu 15",
+    "geometria": [24.961147500026158, 60.19260150000321],
+    "voimassa": true
+  },
+  {
+    "id": 318,
+    "nimi": "Terassialue Ravintola Muikea Muikku",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Tukkutorinkuja 18",
+    "geometria": [24.983636750053513, 60.188040500032606],
+    "voimassa": true
+  },
+  {
+    "id": 319,
+    "nimi": "Cafe Scallion",
+    "tyyppi": "Parklet",
+    "osoite": "Fredrikinkatu 33",
+    "geometria": [24.938625750083713, 60.16322900001578],
+    "voimassa": true
+  },
+  {
+    "id": 320,
+    "nimi": "Red Ox Pub",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Merisotilaantori 1",
+    "geometria": [24.974517500007718, 60.167891000003614],
+    "voimassa": true
+  },
+  {
+    "id": 321,
+    "nimi": "Maltainen Riekko",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Aleksis Kiven katu 56",
+    "geometria": [24.94496900005863, 60.19230150001756],
+    "voimassa": true
+  },
+  {
+    "id": 322,
+    "nimi": "Maltainen Riekko",
+    "tyyppi": "Talviterassi",
+    "osoite": "Aleksis Kiven katu 56",
+    "geometria": [24.94496900005863, 60.19230150001756],
+    "voimassa": false
+  },
+  {
+    "id": 323,
+    "nimi": "Bar Fellows",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Mannerheimintie 64",
+    "geometria": [24.925568500035922, 60.182706500008635],
+    "voimassa": true
+  },
+  {
+    "id": 324,
+    "nimi": "Bar Fellows",
+    "tyyppi": "Talviterassi",
+    "osoite": "Mannerheimintie 64",
+    "geometria": [24.925553000032966, 60.182705000006365],
+    "voimassa": false
+  },
+  {
+    "id": 325,
+    "nimi": "Kommunikaatiotoimisto Kuudes Aisti Oy",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Iso Roobertinkatu 30",
+    "geometria": [24.939977499977616, 60.162681750012794],
+    "voimassa": true
+  },
+  {
+    "id": 326,
+    "nimi": "Kommunikaatiotoimisto Kuudes Aisti Oy",
+    "tyyppi": "Talviterassi",
+    "osoite": "Iso Roobertinkatu 30",
+    "geometria": [24.93999474996776, 60.16266975001181],
+    "voimassa": false
+  },
+  {
+    "id": 327,
+    "nimi": "Cafe Tin Tin Tango",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Töölöntori, pysäköintialue",
+    "geometria": [24.92474524993656, 60.17890100002115],
+    "voimassa": true
+  },
+  {
+    "id": 328,
+    "nimi": "Salud Bar",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Konalantie 2 / Pitäjänmäentie 29",
+    "geometria": [24.85422299999255, 60.225083500027566],
+    "voimassa": true
+  },
+  {
+    "id": 330,
+    "nimi": "Daily Dose",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Hämeentie 68",
+    "geometria": [24.964259666661608, 60.190634333333705],
+    "voimassa": true
+  },
+  {
+    "id": 331,
+    "nimi": "Cafe Askelma",
+    "tyyppi": "Kesäterassi",
+    "osoite": "Naapuripellontie 12 (Naapuripellontie 7 vastapuolella)",
+    "geometria": [24.84802450000736, 60.25052600000585],
+    "voimassa": true
+  }
+]

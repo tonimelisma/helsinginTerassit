@@ -101,7 +101,7 @@ axios
       }
     });
 
-    console.log(terassit);
+    console.log(JSON.stringify(terassit));
   })
   .catch((err) => {
     console.log("error");
