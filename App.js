@@ -130,8 +130,8 @@ const HomeScreen = () => {
                 ]["gml:LinearRing"]["gml:posList"]
               ),
               voimassa:
-                startdate.isSameOrBefore("2020-05-10") &&
-                enddate.isSameOrAfter("2020-05-10")
+                startdate.isSameOrBefore() &&
+                enddate.isSameOrAfter()
                   ? true
                   : false,
             };
