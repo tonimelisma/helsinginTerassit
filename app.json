@@ -1,12 +1,14 @@
 {
   "expo": {
-    "name": "helsinginTerassit",
+    "name": "Helsingin terassit",
+    "description": "Helsingin terassit kartalla",
+    "owner": "tonimelisma",
+    "sdkVersion": "37.0.0",
+    "privacy": "public",
+    "githubUrl": "https://github.com/tonimelisma/helsinginTerassit",
     "slug": "helsinginTerassit",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
+    "scheme": "helsinginterassit",
+    "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,11 +20,29 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
+    "web": {
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyBqYUt3tva48T0H4Rc5sJYyjC2-BixO6gA",
+          "measurementId": "G-BXCBCXTY7V"
+        }
+      }
+
+    },
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "fi.tonimelisma.helsinginterassit",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "This app will show your location and centralize the map for ease of use"
+      }
+    },
+    "android": {
+      "package": "fi.tonimelisma.helsinginterassit",
+      "versionCode": 1,
+      "permissions": ["ACCESS_FINE_LOCATION"]
     }
   }
 }
