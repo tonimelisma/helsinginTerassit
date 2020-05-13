@@ -185,7 +185,7 @@ const HomeScreen = () => {
   return (
     <View style={styles.container}>
       <StatusBar barStyle="dark-content" />
-      <MapView style={styles.mapStyle} region={location}>
+      <MapView style={styles.mapStyle} region={location} showsUserLocation={true} showsMyLocationButton={true}>
         {terassit.length ? (
           terassit
             .filter((terde) => terde.voimassa)
