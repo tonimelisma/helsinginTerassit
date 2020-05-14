@@ -28,7 +28,6 @@
           "measurementId": "G-BXCBCXTY7V"
         }
       }
-
     },
     "ios": {
       "bundleIdentifier": "fi.tonimelisma.helsinginterassit",
@@ -36,7 +35,7 @@
       "buildNumber": "1.0.0",
       "supportsTablet": true,
       "infoPlist": {
-        "NSLocationWhenInUseUsageDescription": "This app will show your location and centralize the map for ease of use"
+        "NSLocationWhenInUseUsageDescription": "The app will show your location and nearest ice cream kiosks"
       }
     },
     "android": {

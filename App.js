@@ -7,7 +7,7 @@ import { createStackNavigator } from "@react-navigation/stack";
 import MapView, { Marker, Callout } from "react-native-maps";
 import * as Location from "expo-location";
 
-import * as Analytics from "expo-firebase-analytics";
+import * as Amplitude from "expo-analytics-amplitude";
 
 const axios = require("axios").default;
 const xmlparser = require("fast-xml-parser");
@@ -54,6 +54,10 @@ const HomeScreen = () => {
   const [terassit, setTerassit] = useState([]);
 
   useEffect(() => {
+    Amplitude.initialize("790da95f8f701fd0443d0428315f3c18");
+  }, []);
+
+  useEffect(() => {
     (async () => {
       let { status } = await Location.requestPermissionsAsync();
       // if (status !== 'granted') {
@@ -61,27 +65,10 @@ const HomeScreen = () => {
       // }
 
       let location = await Location.getCurrentPositionAsync({});
-      Analytics.setDebugModeEnabled(true)
-        .then((res) => {
-          console.log("enabled debugoco");
-          console.lod(res);
-        })
-        .catch((err) => {
-          console.log("couldn't debug");
-          console.log(err);
-        });
-      Analytics.logEvent("getCurrentPositionAsync", {
+      Amplitude.logEventWithProperties("getCurrentPositionAsync", {
         latitude: location.coords.latitude,
         longitude: location.coords.longitude,
-      })
-        .then((res) => {
-          console.log("successfully logged event");
-          console.log(res);
-        })
-        .catch((err) => {
-          console.log("logevent error");
-          console.log(err);
-        });
+      });
       setLocation({
         latitude: location.coords.latitude,
         longitude: location.coords.longitude,
@@ -185,7 +172,12 @@ const HomeScreen = () => {
   return (
     <View style={styles.container}>
       <StatusBar barStyle="dark-content" />
-      <MapView style={styles.mapStyle} region={location} showsUserLocation={true} showsMyLocationButton={true}>
+      <MapView
+        style={styles.mapStyle}
+        region={location}
+        showsUserLocation={true}
+        showsMyLocationButton={true}
+      >
         {terassit.length ? (
           terassit
             .filter((terde) => terde.voimassa)
@@ -210,7 +202,6 @@ const HomeScreen = () => {
         ) : (
           <></>
         )}
-        <Marker coordinate={location} pinColor="blue" />
       </MapView>
     </View>
   );
